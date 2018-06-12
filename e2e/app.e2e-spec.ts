@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('my-addin-angular-based App', () => {
+describe('RCM App', () => {
   let page: AppPage;
 
   beforeEach(() => {
